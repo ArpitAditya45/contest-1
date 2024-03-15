@@ -7,17 +7,17 @@ Some Leetcode interviewer's favorites
 
 
 
-Two Sum: [https://leetcode.com/problems/two-sum/](url)
+Two Sum: **https://leetcode.com/problems/two-sum/**
 
-Move all zero to right:[https://leetcode.com/problems/move-zeroes/](url)
+Move all zero to right: **https://leetcode.com/problems/move-zeroes/**
 
-Every element appears twice except one:  [https://leetcode.com/problems/single-number/description/](url)
+Every element appears twice except one:  **https://leetcode.com/problems/single-number/description/**
 
-Array of product except self: [https://leetcode.com/problems/product-of-array-except-self/description/](url)
+Array of product except self: **https://leetcode.com/problems/product-of-array-except-self/description/**
 
-Sort 0,1 and 2 inside array: [https://leetcode.com/problems/sort-colors/description/](url)
+Sort 0,1 and 2 inside array: **https://leetcode.com/problems/sort-colors/description/**
 
-First Missing positive: [https://leetcode.com/problems/first-missing-positive/description/](url)
+First Missing positive: **https://leetcode.com/problems/first-missing-positive/description/**
 
 **Note:** What is inplace: you should not use another array, do it in same array
 Relative order: the order of the elements should remain same:
