@@ -8,6 +8,13 @@ Some Leetcode interviewer's favorites
 
 
 Q1 : Given an array having both positive and negative integers.Find length of the largest subarray with sum 0.
+    Input: arr[] = {15, -2, 2, -8, 1, 7, 10, 23}
+    Output: 5
+    Explanation: The longest sub-array with elements summing up-to 0 is {-2, 2, -8, 1, 7}
+    
+    Input: arr[] = {1, 2, 3}
+    Output: 0
+    Explanation: There is no subarray with 0 sum
 
 Q2:  Power sum problem: https://www.hackerrank.com/challenges/the-power-sum/problem
 
